@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,25:0f172a,50:2563eb,75:7c3aed,100:ec4899&text=Hi,%20I'm%20Resot%20👋&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Competitive%20Programming%20·%20Open%20Source%20·%20AlgoWiki&descAlignY=58&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,25:0f172a,50:2563eb,75:7c3aed,100:ec4899&text=Hi,%20I'm%20Resot%20👋&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Competitive%20Programming%20·%20Open%20Source%20·%20AlgoWiki&descAlignY=58&descSize=18" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=Competitive+Programming+Enthusiast;Builder+of+AlgoWiki;Open+Source+Learner+and+Creator;Writing+XCPC+%2F+OI+Learning+Resources;Keep+Solving.+Keep+Building.+Keep+Sharing." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=Competitive+Programming+Enthusiast;Builder+of+AlgoWiki;Writing+XCPC+%2F+OI+Learning+Resources;Open+Source+Learner+and+Creator;Keep+Solving.+Keep+Building.+Keep+Sharing." />
 </p>
 
 <p align="center">
@@ -14,29 +14,29 @@
 
 <p align="center">
   <a href="https://www.algowiki.cn/">
-    <img src="https://img.shields.io/badge/AlgoWiki-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Website-AlgoWiki-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://github.com/NullResot/AlgoWiki">
-    <img src="https://img.shields.io/badge/AlgoWiki%20Repo-111827?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Repo-AlgoWiki-111827?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://github.com/NullResot/XCPC-Beginner-Guide">
-    <img src="https://img.shields.io/badge/XCPC%20Beginner%20Guide-7C3AED?style=for-the-badge&logo=bookstack&logoColor=white" />
+    <img src="https://img.shields.io/badge/Repo-XCPC_Beginner_Guide-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" /> About Me
+# 👋 About Me
 
 <table>
 <tr>
-<td width="60%">
+<td width="58%" valign="top">
 
 Hi, I'm **Resot**.
 
 I'm focused on **competitive programming**, **algorithm education**, and **open-source projects**.
 
-I enjoy building tools and learning resources that make algorithm learning more structured, cleaner, and more beginner-friendly.
+I enjoy building tools and learning resources that make algorithm learning more structured, clearer, and more beginner-friendly.
 
 - 🏆 Focused on **XCPC / OI / Competitive Programming**
 - 📚 Building **AlgoWiki**, an algorithm knowledge organization platform
@@ -45,9 +45,9 @@ I enjoy building tools and learning resources that make algorithm learning more 
 - 🌱 Currently building projects that help beginners learn competitive programming faster
 
 </td>
-<td width="40%" align="center">
+<td width="42%" align="center" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api?username=NullResot&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
+<img src="https://raw.githubusercontent.com/NullResot/NullResot/main/metrics.base.svg" alt="metrics" />
 
 </td>
 </tr>
@@ -55,20 +55,14 @@ I enjoy building tools and learning resources that make algorithm learning more 
 
 ---
 
-# 🚀 Current Mission
+# 🚀 Highlights
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=700&color=A78BFA&center=true&vCenter=true&width=800&lines=Make+algorithm+learning+clearer;Make+competitive+programming+more+beginner-friendly;Build+open-source+tools+for+learners;Create+clean+and+structured+learning+resources" />
+  <img src="https://img.shields.io/badge/Algorithm%20Competition-XCPC%20%2F%20OI-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20Source-Builder-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Articles-200%2B-EC4899?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GitHub%20Stars-300%2B-0EA5E9?style=for-the-badge" />
 </p>
-
-```txt
-Algorithm Learning should be:
-├── clear
-├── structured
-├── beginner-friendly
-├── community-driven
-└── open-source
-```
 
 ---
 
@@ -88,7 +82,7 @@ Algorithm Learning should be:
 
 ## 📚 Algorithm Education
 
-`Beginner Guide` `Wiki`  
+`Wiki` `Beginner Guide`  
 `Notes` `Roadmap`
 
 </td>
@@ -111,41 +105,28 @@ Algorithm Learning should be:
   <img src="https://skillicons.dev/icons?i=cpp,py,js,ts,vue,django,html,css,mysql,git,github,linux,vscode,vercel,cloudflare&perline=8" />
 </p>
 
+---
+
+# 📊 GitHub Dashboard
+
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://raw.githubusercontent.com/NullResot/NullResot/main/metrics.languages.svg" alt="languages" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NullResot/NullResot/main/metrics.isocalendar.svg" alt="isocalendar" />
 </p>
 
 ---
 
-# 📊 GitHub Stats
+# 🐍 Contribution Snake
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NullResot&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NullResot&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=NullResot&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 🏆 GitHub Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NullResot&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
-</p>
-
----
-
-# 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NullResot&theme=tokyo-night&hide_border=true&area=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NullResot/NullResot/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NullResot/NullResot/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NullResot/NullResot/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---
@@ -154,19 +135,14 @@ Algorithm Learning should be:
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="50%" valign="top">
 
-## 🚀 AlgoWiki
-
-<a href="https://github.com/NullResot/AlgoWiki">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NullResot&repo=AlgoWiki&theme=tokyonight&hide_border=true" />
-</a>
-
-<br/>
+## 🚀 [AlgoWiki](https://github.com/NullResot/AlgoWiki)
 
 **Algorithm Learning · Knowledge Organization · Community Collaboration**
 
-AlgoWiki is a knowledge platform designed for competitive programming learners.
+AlgoWiki is a knowledge platform designed for competitive programming learners.  
+It focuses on structured algorithm content, beginner-friendly resources, and collaborative improvement.
 
 <p>
   <a href="https://www.algowiki.cn/">
@@ -178,19 +154,14 @@ AlgoWiki is a knowledge platform designed for competitive programming learners.
 </p>
 
 </td>
-<td width="50%" align="center">
+<td width="50%" valign="top">
 
-## 📘 XCPC Beginner Guide
-
-<a href="https://github.com/NullResot/XCPC-Beginner-Guide">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NullResot&repo=XCPC-Beginner-Guide&theme=tokyonight&hide_border=true" />
-</a>
-
-<br/>
+## 📘 [XCPC-Beginner-Guide](https://github.com/NullResot/XCPC-Beginner-Guide)
 
 **XCPC · OI · Beginner-Friendly Learning Roadmap**
 
-A guide for beginners who want to enter algorithm competitions.
+A guide for beginners who want to enter algorithm competitions.  
+It helps new learners understand what to learn, how to practice, and how to build a clear training path.
 
 <p>
   <a href="https://github.com/NullResot/XCPC-Beginner-Guide">
@@ -202,19 +173,13 @@ A guide for beginners who want to enter algorithm competitions.
 </tr>
 
 <tr>
-<td width="50%" align="center">
+<td width="50%" valign="top">
 
-## 🧩 AlgoCard
-
-<a href="https://github.com/NullResot/AlgoCard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NullResot&repo=AlgoCard&theme=tokyonight&hide_border=true" />
-</a>
-
-<br/>
+## 🧩 [AlgoCard](https://github.com/NullResot/AlgoCard)
 
 **Algorithm Tools · Cards · Presentation**
 
-A small project related to algorithm tools and visual presentation.
+A small project related to algorithm tools and visual presentation, exploring cleaner ways to display algorithm-related content.
 
 <p>
   <a href="https://github.com/NullResot/AlgoCard">
@@ -223,17 +188,13 @@ A small project related to algorithm tools and visual presentation.
 </p>
 
 </td>
-<td width="50%" align="center">
+<td width="50%" valign="top">
 
 ## 🔥 More Coming Soon
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2400&pause=800&color=22C55E&center=true&vCenter=true&width=380&lines=Keep+building;Keep+learning;Keep+sharing;More+projects+coming+soon" />
-
-<br/>
-
 **Open Source · Learning Resources · Developer Tools**
 
-I will continue building projects around algorithms and competitive programming.
+I will continue building projects around algorithms, competitive programming, and developer tools.
 
 <p>
   <img src="https://img.shields.io/badge/Open%20Source-Learning%20in%20Public-22C55E?style=for-the-badge" />
@@ -249,7 +210,7 @@ I will continue building projects around algorithms and competitive programming.
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ## ✍️ Writing
 
@@ -258,7 +219,7 @@ I will continue building projects around algorithms and competitive programming.
 - Writing about algorithms, training, and XCPC learning paths
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 📌 Topics
 
@@ -273,7 +234,7 @@ I will continue building projects around algorithms and competitive programming.
 </tr>
 </table>
 
-## Representative Works
+### Representative Works
 
 - [XCPC Beginner Guide](https://github.com/NullResot/XCPC-Beginner-Guide)
 - 【深入浅出】动态规划五讲
@@ -282,16 +243,11 @@ I will continue building projects around algorithms and competitive programming.
 
 # 🎯 Current Goals
 
-```txt
-2026 Goals
-├── Improve AlgoWiki
-│   ├── better content organization
-│   ├── better collaboration workflow
-│   └── better beginner experience
-├── Write more XCPC / OI learning resources
-├── Build more practical open-source tools
-└── Keep learning, solving, and sharing
-```
+- Improve **AlgoWiki**
+- Build a cleaner and more systematic algorithm learning platform
+- Create more beginner-friendly XCPC / OI learning resources
+- Build more practical open-source tools
+- Keep learning, solving, and sharing
 
 ---
 
