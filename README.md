@@ -80,15 +80,17 @@ I enjoy building tools and learning resources that make algorithm learning more 
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2400&pause=700&color=A78BFA&center=true&vCenter=true&width=900&lines=Initializing+AlgoWiki+Core...;Loading+Competitive+Programming+Modules...;Building+Beginner-Friendly+Knowledge+Base...;Deploying+Open-Source+Learning+Resources..." />
 </p>
 
-<pre><code>╔════════════════════════════════════════════════════════════╗
-║                         RESOT.EXE                         ║
-╠════════════════════════════════════════════════════════════╣
-║  Mode       : Competitive Programming / Open Source        ║
-║  Main Quest : Build AlgoWiki                               ║
-║  Side Quest : Write XCPC / OI beginner resources           ║
-║  Stack      : C++ / Python / Vue / Django / MySQL          ║
-║  Motto      : Keep solving. Keep building. Keep sharing.   ║
-╚════════════════════════════════════════════════════════════╝</code></pre>
+<p align="center">
+  <img src="https://img.shields.io/badge/RESOT.EXE-ONLINE-22C55E?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/MODE-Competitive%20Programming-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MAIN%20QUEST-Build%20AlgoWiki-7C3AED?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SIDE%20QUEST-XCPC%20%2F%20OI%20Resources-EC4899?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/STACK-C++%20%2F%20Python%20%2F%20Vue%20%2F%20Django-0EA5E9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MOTTO-Keep%20Building-22C55E?style=for-the-badge" />
+</p>
 
 ---
 
